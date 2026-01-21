@@ -78,6 +78,7 @@ Draft (UI only)
 
 ---
 
+<<<<<<< HEAD
 ## Dashboard Status Grouping
 
 | Dashboard Tab | Contract Statuses |
@@ -110,6 +111,11 @@ Draft (UI only)
 - Locked contracts are finalized and stored
 
 ---
+=======
+
+
+
+>>>>>>> caef0008aecd9017741cad0c32af306d9e27b3fb
 
 ## Dashboard Status Grouping
 
@@ -170,4 +176,8 @@ Contract lifecycle logic is clearly implemented
 
 UI state always reflects the contract data state
 
+<<<<<<< HEAD
 Code is modular, readable, and type-safe
+=======
+Code is modular, readable, and type-safe
+>>>>>>> caef0008aecd9017741cad0c32af306d9e27b3fb
