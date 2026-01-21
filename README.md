@@ -78,38 +78,9 @@ Draft (UI only)
 
 ---
 
-## Dashboard Status Grouping
 
-| Dashboard Tab | Contract Statuses |
-|--------------|-------------------|
-| Pending      | Created, Approved |
-| Active       | Sent |
-| Signed       | Signed, Locked |
 
----
 
-## Data Persistence
-
-- Contract data is stored in the browser using `localStorage`
-- Data persists across page refreshes
-- No backend or API is used (as per assignment scope)
-
----
-
-## How to Run the Project
-
-1. Install dependencies:
-   ```bash
-   npm install
-2. 
-### Lifecycle Rules
-
-- A contract is not considered created until a blueprint is selected
-- Status transitions follow a strict order
-- Once a contract reaches **Locked**, it becomes read-only
-- Locked contracts are finalized and stored
-
----
 
 ## Dashboard Status Grouping
 
